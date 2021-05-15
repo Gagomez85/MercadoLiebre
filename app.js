@@ -6,7 +6,7 @@ console.log(publicPath) // nos da por consola la ruta del public
 
 app.use(express.static(publicPath));
 
-app.listen(3030, () => console.log('Servidor corriendo ')) // levantamos una server en localhost
+app.listen(3050, () => console.log('Servidor corriendo ')) // levantamos una server en localhost
 
 app.get('/', (req, res) => {
 
