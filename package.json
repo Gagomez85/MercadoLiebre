@@ -12,5 +12,13 @@
     "chalk": "^4.1.0",
     "express": "^4.17.1",
     "yargs": "^17.0.0-candidate.12"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gagomez85/MercadoLiebre.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Gagomez85/MercadoLiebre/issues"
+  },
+  "homepage": "https://github.com/Gagomez85/MercadoLiebre#readme"
 }
